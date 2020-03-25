@@ -79,4 +79,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Letícia Barreto :wave: [Entre em contato!](leticiambrt@gmail.com)
+Feito com ♥ by Letícia Barreto :wave:
