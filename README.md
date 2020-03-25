@@ -15,14 +15,6 @@
     <img alt="Made by Letícia Barreto" src="https://img.shields.io/badge/made%20by-Letícia Barreto-%2304D361" />
   </a>
 
-  <a href="https://github.com/lebarreto/BeTheHero/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
-  </a>
-
-  <a href="https://github.com/lebarreto/BeTheHero/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-10">
-  </a>
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361" />
 </p>
 
