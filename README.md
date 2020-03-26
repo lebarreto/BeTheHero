@@ -29,7 +29,7 @@
 
 ## :rocket: Tecnologias
 
-Esse projeto foi desenvolvido utilizando as seguintes tecnologias: 
+Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <ul>
   <li>
@@ -41,35 +41,44 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
   <li>
     <a href="https://reactnative.dev/">React Native</a>
   </li>
+  <li>
+    <a href="https://expo.io/">Expo</a>
+  </li>
 </ul>
 
 ## 💻 Instalação e execução do Backend
 
 1. Faça um clone desse projeto.
-2. Entre na pasta do backend: ```cd backend```
-3. Rode ```yarn``` para instalar as dependências
-4. Rode ```npx knex migrate:latest``` para executar as migrations
-5. Rode ```yarn start``` para iniciar o servidor.
+2. Entre na pasta do backend: `cd backend`
+3. Rode `yarn` para instalar as dependências
+4. Rode `npx knex migrate:latest` para executar as migrations
+5. Rode `yarn start` para iniciar o servidor.
 
 ## 💻 Instalação e execução do Frontend
 
-Antes de executar esse projeto, inicie o backend que pode ser encontrado na pasta ```frontend``` e siga as instruções acima.
+Antes de executar esse projeto, inicie o backend que pode ser encontrado na pasta `backend` e siga as instruções acima.
 
-1. Entre na pasta do frontend: ```cd frontend```
-2. Rode ```yarn``` para instalar as dependências
-3. Altere a url da api para o seu IP, acessando ```cd services``` ``` api.js```
-4. Rode ```yarn start``` para iniciar o cliente
+1. Entre na pasta do frontend: `cd frontend`
+2. Rode `yarn` para instalar as dependências
+3. Altere a url da api para o seu IP, acessando `cd services` `api.js`
+4. Rode `yarn start` para iniciar o cliente
 
 ## 💻 Instalação e execução do Mobile
 
- 🚧 Em progresso... 🚧
- 
- ## 🤔 Como contribuir
+Antes de executar esse projeto, inicie o backend que pode ser encontrado na pasta `backend` e siga as instruções acima.
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+1. Entre na pasta do mobile: `cd mobile`
+2. Rode `yarn` para instalar as dependências
+3. Altere a url da api para o seu IP, acessando `cd services` `api.js`
+4. Rode `yarn start` para iniciar o cliente
+5. Escaneie o QR Code e a aplicação irá exibir no seu celular.
+
+## 🤔 Como contribuir
+
+-   Faça um fork desse repositório;
+-   Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+-   Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+-   Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
